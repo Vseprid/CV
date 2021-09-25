@@ -40,7 +40,7 @@ _nothing yet..._
 ## Education and courses:
 
 - Shevchenko Transnistria State University
-- Courses: RS School
+- Courses: [RS School](https://rs.school/)
 
 ## English:
 
