@@ -23,3 +23,12 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 - Version control: Git (remote service GitHub).
 - Webpack.
 - Editors: Sublime Text, **VSCode**.
+
+## Code Exempl:
+
+```JavaScript
+function hello(name) {
+  name ? name = name[0].toUpperCase() + name.toLowerCase().slice(1) : name = 'World';
+  return `Hello, ${name}!`;
+}
+```
