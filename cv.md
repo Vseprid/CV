@@ -32,3 +32,12 @@ function hello(name) {
   return `Hello, ${name}!`;
 }
 ```
+
+## Work experience:
+
+_nothing yet..._
+
+## Education and courses:
+
+- Shevchenko Transnistria State University
+- Courses: RS School
