@@ -14,3 +14,12 @@
 
 I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
 I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
+
+## Scills:
+
+- HTML5.
+- CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology).
+- JavaScript (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM),JSON.
+- Version control: Git (remote service GitHub).
+- Webpack.
+- Editors: Sublime Text, **VSCode**.
