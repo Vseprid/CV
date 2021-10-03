@@ -24,7 +24,7 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 - Webpack.
 - Editors: Sublime Text, **VSCode**.
 
-## Code Exempl:
+## Code Example:
 
 ```JavaScript
 function hello(name) {
