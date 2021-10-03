@@ -1,0 +1,14 @@
+main,
+footer {
+    margin: 0 auto;
+    max-width: 60%;
+}
+
+.my-photo {
+    width: 40%;
+    border-radius: 50%;
+}
+
+.year {
+    font-style: italic;
+}
